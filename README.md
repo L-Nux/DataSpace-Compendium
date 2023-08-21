@@ -11,6 +11,7 @@ Welcome to the DataSpace Repository Collection – a source for GitHub repositor
 
 - [EuProGigant](https://portal.euprogigant.io/)
 - [Data Audit Trail](https://github.com/deltaDAO/Ocean-Protocol-Use-Cases/blob/main/Ocean%20Protocol%20Use%20Case%20-%20Data%20Audit%20Trail.pdf)
+- [iECO](https://ieco-gaiax.de/)
 
 ## Tech Stack
 
