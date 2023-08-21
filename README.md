@@ -8,10 +8,13 @@ Welcome to the DataSpace Repository Collection – a source for GitHub repositor
 - [Headline 3](https://www.example.com/news3)
 
 ## Projects
-
+### GAIA-X
 - [EuProGigant](https://portal.euprogigant.io/)
 - [Data Audit Trail](https://github.com/deltaDAO/Ocean-Protocol-Use-Cases/blob/main/Ocean%20Protocol%20Use%20Case%20-%20Data%20Audit%20Trail.pdf)
 - [iECO](https://ieco-gaiax.de)
+- [Future Mobility](https://www.gaia-x4futuremobility.de)
+- [Strcutura-X](https://gaia-x.eu/news/latest-news/structura-x-lighthouse-project-for-european-cloud-infrastructure-is-launched-concrete-implementation-and-alignment-with-the-gaia-x-roadmap-of-compatible-services)
+- [AgDataHub](https://www.data-infrastructure.eu/GAIAX/Redaktion/EN/Artikel/UseCases/smart-agriculture-data-exchange-in-agriculture.html)
 
 ## Tech Stack
 
