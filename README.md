@@ -24,7 +24,7 @@ Welcome to the DataSpace Repository Collection – a source for GitHub repositor
 
 ## Useful Github Repos
 
-- Eclipse Dataspace Connector EDC](https://github.com/eclipse-edc/Connector)
+- [Eclipse Dataspace Connector EDC](https://github.com/eclipse-edc/Connector)
 - [DeltaDao](https://github.com/deltaDAO)
 
 
