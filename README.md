@@ -8,6 +8,7 @@ Welcome to the DataSpace Repository Collection – a source for GitHub repositor
 - [Headline 3](https://www.example.com/news3)
 
 ## Projects
+
 ### GAIA-X
 - [EuProGigant](https://portal.euprogigant.io/)
 - [Data Audit Trail](https://github.com/deltaDAO/Ocean-Protocol-Use-Cases/blob/main/Ocean%20Protocol%20Use%20Case%20-%20Data%20Audit%20Trail.pdf)
@@ -18,10 +19,12 @@ Welcome to the DataSpace Repository Collection – a source for GitHub repositor
 
 ## Tech Stack
 
+- [Eclipse Data  Space Components](https://github.com/eclipse-edc)
 - [Ocean Protocol](https://docs.oceanprotocol.com/developers/architecture)
 
 ## Useful Github Repos
 
+- Eclipse Dataspace Connectot (EDC)](https://github.com/eclipse-edc/Connector)
 - [DeltaDao](https://github.com/deltaDAO)
 
 
