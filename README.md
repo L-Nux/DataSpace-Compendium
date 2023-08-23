@@ -22,10 +22,11 @@ Welcome to the DataSpace Repository Collection – a source for GitHub repositor
 - [Eclipse Data  Space Components](https://github.com/eclipse-edc)
 - [Ocean Protocol](https://docs.oceanprotocol.com/developers/architecture)
 
-## Useful Github Repos
+## Useful Repos
 
 - [Eclipse Dataspace Connector EDC](https://github.com/eclipse-edc/Connector)
 - [DeltaDao](https://github.com/deltaDAO)
+- [GXFS Toolbox](https://gitlab.eclipse.org/eclipse/xfsc)
 
 
 ## Resources
